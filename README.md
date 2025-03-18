@@ -5,8 +5,11 @@ This Python program is a Cricket Quiz Game that tests the player's knowledge of 
 Features:
 
 ✔️ Multiple Questions: The quiz consists of five cricket-related questions.
+
 ✔️ Multiple-Choice Format: Each question has four answer options (A, B, C, or D).
+
 ✔️ Real-Time Feedback: Players receive instant feedback on whether their answer is correct or incorrect.
+
 ✔️ Score Tracking: The game keeps track of the player's score and displays their performance at the end.
 
 How It Works:
